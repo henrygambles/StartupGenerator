@@ -6,5 +6,5 @@ Flutter is exciting as a new technology as it allows devolpers to create iOS, An
 
 ## Getting Started
 
-<img src="../master/images/home.png" alt="home"/>
-<img align="left" src="../master/images/home.png" alt="likes" width="75%"/>
+<img src="../master/images/home_iphonex.png" alt="home"/>
+<img align="left" src="../master/images/likes_iphonex.png" alt="likes" width="75%"/>
