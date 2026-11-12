@@ -8,4 +8,4 @@ Flutter is still in its early days and highly experimental, meaning some feature
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/StartupGenerator&type=Date)](https://star-history.com/#henrygambles/StartupGenerator&Date)
+![Star history](.github/star-history.svg)
